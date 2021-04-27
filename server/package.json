@@ -21,7 +21,7 @@
     "mongodb": "^3.3.3",
     "node-uuid": "^1.4.8",
     "nodemon": "^1.19.4",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "svg-captcha": "^1.4.0"
   }
 }
